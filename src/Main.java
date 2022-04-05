@@ -35,5 +35,6 @@ public class Main {
         System.out.println("2 - Напечатать статистику за определенный месяц");
         System.out.println("3 - изменить цель по количеству шагов в день");
         System.out.println("4 - Выйти из приложения");
+
     }
 }
